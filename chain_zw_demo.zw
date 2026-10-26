@@ -1,0 +1,16 @@
+{combat_chain_request
+  {version 1}
+  {targets [
+    {target {id wet_foe} {hp 100}}
+    {target {id resistant_foe} {hp 1000} {resist_fire 0.5} {resist_spirit 0.1}}
+    {target {id char_foe} {hp 100}}
+  ]}
+  {hits [
+    {hit {id water_1} {target wet_foe} {primary true} {damage_water 10}}
+    {hit {id fire_2} {target wet_foe} {primary true} {damage_fire 10}}
+    {hit {id secondary_splash} {target wet_foe} {primary false} {damage_lightning 3}}
+    {hit {id solar_renewal} {target resistant_foe} {primary true} {damage_fire 100} {damage_spirit 100}}
+    {hit {id electric_1} {target char_foe} {primary true} {damage_lightning 10}}
+    {hit {id fire_2_char} {target char_foe} {primary true} {damage_fire 10}}
+  ]}
+}

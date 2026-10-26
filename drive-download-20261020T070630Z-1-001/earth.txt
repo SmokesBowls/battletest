@@ -1,0 +1,56 @@
+## EARTH
+Primary Stats per Level:
+
+### Level 1
+* Basic Attack: Stone strike (75 damage)
+* AoE: Adjacent pads (25 crush damage)
+* MP Cost: 25
+
+### Level 2
+* Enhanced Attack: Boulder crash (2x65 damage)
+* Expanded AoE: Two pad radius (35 crush)
+* MP Cost: 45
+
+### Level 3
+* Ultimate: Earthquake (250 damage)
+* Full battlefield AoE (75 crush)
+* MP Cost: 75
+
+Element Interactions (scaling with levels):
+
+### vs Water
+* Level 1: Mud formation (Slow 25%), Defense +10%
+* Level 2: Deep mud (Slow 35%), Defense +20%
+* Level 3: Quicksand (Slow 50%), Defense +30%
+
+### vs Fire
+* Level 1: Magma shield (25 damage reflect), Heat armor
+* Level 2: Magma barrier (35 damage reflect), Enhanced armor
+* Level 3: Magma fortress (50 damage reflect), Ultimate armor
+
+### vs Lightning
+* Level 1: Ground shock (Redistribute 25% damage)
+* Level 2: Ground surge (Redistribute 35% damage)
+* Level 3: Ground storm (Redistribute 50% damage)
+
+### vs Ice
+* Level 1: Crystal formation (75 damage), Brittle effect
+* Level 2: Crystal burst (125 damage), Extended brittle
+* Level 3: Crystal storm (175 damage), Shatter field
+
+### vs Shadow
+* Level 1: Rock shadow (Hide bonus), +25% defense
+* Level 2: Stone shadow (Extended hide), +35% defense
+* Level 3: Mountain shadow (Team hide), +50% defense
+
+### vs Spirit
+* Level 1: Spirit stone (25 Spirit damage), Block field
+* Level 2: Spirit boulder (45 Spirit damage), Extended block
+* Level 3: Spirit mountain (75 Spirit damage), Full block
+
+### vs Moon
+* Level 1: Gravity crush (25% bonus damage), Weight field
+* Level 2: Gravity smash (35% bonus damage), Heavy field
+* Level 3: Gravity collapse (50% bonus damage), Mass field
+
+Would you like me to continue with Shadow next?

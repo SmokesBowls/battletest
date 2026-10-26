@@ -1,0 +1,290 @@
+{
+ "targets": {
+  "boss": {
+   "hp": 2000.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   }
+  },
+  "e1": {
+   "hp": 200,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   }
+  },
+  "e3": {
+   "hp": 200,
+   "chain": {
+    "elements": [
+     "fire"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   }
+  },
+  "e4": {
+   "hp": 200,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   }
+  },
+  "e5": {
+   "hp": 200,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   }
+  },
+  "mud": {
+   "hp": 200,
+   "chain": {
+    "elements": [
+     "earth"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   }
+  },
+  "dark": {
+   "hp": 200,
+   "chain": {
+    "elements": [
+     "shadow"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   }
+  }
+ },
+ "turns": [
+  {
+   "cycle": 1,
+   "actor": "p1",
+   "turn": "c1_water",
+   "alerts": [],
+   "hits": [
+    {
+     "target": "boss",
+     "form": "water",
+     "primary": true,
+     "damage": 100.0
+    }
+   ],
+   "chains": {
+    "boss": {
+     "elements": [
+      "water"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 40.0
+    }
+   }
+  },
+  {
+   "cycle": 1,
+   "actor": "p2",
+   "turn": "c1_fire",
+   "alerts": [],
+   "hits": [
+    {
+     "target": "boss",
+     "form": "fire",
+     "primary": true,
+     "damage": 123.27
+    }
+   ],
+   "chains": {
+    "boss": {
+     "elements": [
+      "water",
+      "fire"
+     ],
+     "state": "Boil",
+     "closed": false,
+     "ongoing": 40.0
+    }
+   }
+  },
+  {
+   "cycle": 1,
+   "actor": "p3",
+   "turn": "c1_bolt",
+   "alerts": [
+    "c1_bolt: becomes Plasma at e3"
+   ],
+   "hits": [
+    {
+     "target": "e1",
+     "form": "lightning",
+     "primary": true,
+     "damage": 30.0
+    },
+    {
+     "target": "e3",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "e4",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    }
+   ],
+   "chains": {
+    "e1": {
+     "elements": [
+      "lightning"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "e3": {
+     "elements": [
+      "fire"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "e4": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    }
+   }
+  },
+  {
+   "cycle": 2,
+   "actor": "p1",
+   "turn": "c2_water",
+   "alerts": [],
+   "hits": [
+    {
+     "target": "boss",
+     "form": "water",
+     "primary": true,
+     "damage": 144.49
+    }
+   ],
+   "chains": {
+    "boss": {
+     "elements": [
+      "water",
+      "fire",
+      "water"
+     ],
+     "state": "Steam",
+     "closed": false,
+     "ongoing": 40.0
+    }
+   }
+  },
+  {
+   "cycle": 2,
+   "actor": "p2",
+   "turn": "c2_bolt",
+   "alerts": [
+    "c2_bolt: Grounding at mud, bolt stops",
+    "c2_bolt:0: unauthored cell water->lightning"
+   ],
+   "hits": [
+    {
+     "target": "boss",
+     "form": "lightning",
+     "primary": true,
+     "damage": 71.53
+    },
+    {
+     "target": "mud",
+     "form": "lightning",
+     "primary": false,
+     "damage": 30.0
+    }
+   ],
+   "chains": {
+    "boss": {
+     "elements": [
+      "water",
+      "fire",
+      "water",
+      "lightning"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "mud": {
+     "elements": [
+      "earth"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    }
+   }
+  },
+  {
+   "cycle": 2,
+   "actor": "p3",
+   "turn": "c2_bolt2",
+   "alerts": [
+    "c2_bolt2: Absorption at dark, bolt stops",
+    "c2_bolt2:0: repeated lightning ends the chain"
+   ],
+   "hits": [
+    {
+     "target": "boss",
+     "form": "lightning",
+     "primary": true,
+     "damage": 30.0
+    },
+    {
+     "target": "dark",
+     "form": "lightning",
+     "primary": false,
+     "damage": 30.0
+    }
+   ],
+   "chains": {
+    "boss": {
+     "elements": [
+      "water",
+      "fire",
+      "water",
+      "lightning"
+     ],
+     "state": null,
+     "closed": true,
+     "ongoing": 0.0
+    },
+    "dark": {
+     "elements": [
+      "shadow"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    }
+   }
+  }
+ ]
+}

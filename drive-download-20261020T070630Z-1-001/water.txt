@@ -1,0 +1,126 @@
+WATER:
+
+Primary Stats per Level:
+```
+Level 1:
+* Basic Attack: Single water burst (75 damage)
+* AoE: Adjacent pads (25 splash damage)
+* MP Cost: 25
+
+Level 2:
+* Enhanced Attack: Dual water bursts (2x65 damage)
+* Expanded AoE: Two pad radius (35 splash)
+* MP Cost: 45
+
+Level 3:
+* Ultimate: Tidal Wave (250 damage)
+* Full battlefield AoE (75 splash)
+* MP Cost: 75
+```
+
+Element Interactions (scaling with levels):
+```
+vs Fire:
+* Level 1: Cancel + Steam (25 DoT, 3 turns)
+* Level 2: Steam (35 DoT, 3 turns)
+* Level 3: Steam (50 DoT, 4 turns)
+
+vs Lightning:
+* Level 1: +50% Lightning damage, Wet status (2 turns)
+* Level 2: +75% Lightning damage, Wet status (3 turns)
+* Level 3: +100% Lightning damage, Wet status (4 turns)
+
+vs Earth:
+* Level 1: Mud slow (25% movement), Ground saturation
+* Level 2: Mud slow (35%), Extended saturation
+* Level 3: Mud slow (50%), Full field saturation
+
+vs Ice:
+* Level 1: Freeze chance +25%, Slick surface (1 pad)
+* Level 2: Freeze chance +35%, Slick surface (2 pads)
+* Level 3: Freeze chance +50%, Full field ice effect
+
+vs Shadow:
+* Level 1: Reveal hidden (1 turn), Dark water (25 bonus damage)
+* Level 2: Reveal hidden (2 turns), Dark water (35 bonus damage)
+* Level 3: Reveal hidden (3 turns), Dark water (50 bonus damage)
+
+vs Spirit:
+* Level 1: Purify (removes 1 debuff), Heal 25 HP
+* Level 2: Purify (removes 2 debuffs), Heal 35 HP
+* Level 3: Purify (removes all debuffs), Heal 50 HP
+
+vs Moon:
+* Level 1: Tidal boost (+25% damage), Low gravity (1 turn)
+* Level 2: Tidal boost (+35% damage), Low gravity (2 turns)
+* Level 3: Tidal boost (+50% damage), Low gravity (3 turns)
+```
+
+.........................................................................
+
+# Elemental Combat System
+
+## WATER
+Primary Stats per Level:
+
+### Level 1
+* Basic Attack: Single water burst (75 damage)
+* AoE: Adjacent pads (25 splash damage)
+* MP Cost: 25
+
+### Level 2
+* Enhanced Attack: Dual water bursts (2x65 damage)
+* Expanded AoE: Two pad radius (35 splash)
+* MP Cost: 45
+
+### Level 3
+* Ultimate: Tidal Wave (250 damage)
+* Full battlefield AoE (75 splash)
+* MP Cost: 75
+
+Element Interactions (scaling with levels):
+
+### vs Fire
+* Level 1: Cancel + Steam (25 DoT, 3 turns)
+* Level 2: Steam (35 DoT, 3 turns)
+* Level 3: Steam (50 DoT, 4 turns)
+
+### vs Lightning
+* Level 1: +50% Lightning damage, Wet status (2 turns)
+* Level 2: +75% Lightning damage, Wet status (3 turns)
+* Level 3: +100% Lightning damage, Wet status (4 turns)
+
+### vs Earth
+* Level 1: Mud slow (25% movement), Ground saturation
+* Level 2: Mud slow (35%), Extended saturation
+* Level 3: Mud slow (50%), Full field saturation
+
+### vs Ice
+* Level 1: Freeze chance +25%, Slick surface (1 turn)
+* Level 2: Freeze chance +40%, Slick surface (2 turns)
+* Level 3: Freeze chance +60%, Slick surface (3 turns)
+
+### vs Shadow
+* Level 1: Reveals hidden, Dark water (25 damage)
+* Level 2: Reveals hidden, Dark water (40 damage)
+* Level 3: Reveals hidden, Dark water (60 damage)
+
+### vs Spirit
+* Level 1: Purify (removes 1 debuff), Heal 25 HP
+* Level 2: Purify (removes 2 debuffs), Heal 45 HP
+* Level 3: Purify (removes all debuffs), Heal 75 HP
+
+### vs Moon
+* Level 1: Tidal boost (+25% damage), Minor gravity field
+* Level 2: Tidal boost (+40% damage), Medium gravity field
+* Level 3: Tidal boost (+60% damage), Major gravity field
+
+## FIRE (Increased Base Damage)
+Primary Stats per Level:
+
+### Level 1
+* Basic Attack: Single flame burst (100 damage)
+* AoE: Adjacent pads (35 splash damage)
+* MP Cost: 30
+
+[Continue with Fire's interactions...]

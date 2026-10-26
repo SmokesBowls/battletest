@@ -1,0 +1,76 @@
+Core Spells
+Solar Renewal
+
+    Effect: Channels the sun's energy to heal an ally, restoring 25% of their max HP and granting a Solar Resilience buff (+15% resistance to all damage for 3 turns). If cast under direct sunlight, the healing increases by 10%.
+    Element: Fire + Spirit
+    Visual/Auditory Cue: A burst of golden light surrounds the target, accompanied by the sound of gentle solar winds.
+
+Phoenix’s Embrace
+
+    Effect: Creates a shield absorbing damage equal to 25% of Thang’s max HP. If the shield is broken, it heals the ally for the absorbed damage, but Thang loses 15% of his current HP.
+    Element: Spirit
+    Visual/Auditory Cue: A shimmering, bronze barrier envelops the ally, with a soft, resonating chime when activated.
+
+Bronze Flames
+
+    Effect: AoE fire spell dealing 75% of Fire’s base damage and applying Burning (10% DoT for 3 turns). Burning stacks with other fire effects, increasing DoT damage by 5% per stack.
+    Element: Fire
+    Visual/Auditory Cue: Explosive flames with a bronze hue erupt, accompanied by the roar of intense heat.
+
+Supportive/Utility Spells
+Illusory Mirage
+
+    Effect: Summons a decoy that mimics Thang or an ally’s appearance, taunting enemies. The decoy has 25% of Thang’s HP and lasts for 2 turns or until destroyed.
+    Element: Spirit
+    Visual/Auditory Cue: A shimmering, sunlit illusion materializes, with a faint, ethereal hum.
+
+Earth’s Shield
+
+    Effect: Provides 20% damage reduction to an ally and grants immunity to stun and knockback for 2 turns. Increases to 30% damage reduction when cast on rocky terrain.
+    Element: Earth + Spirit
+    Visual/Auditory Cue: A sturdy, earthy barrier forms around the ally, with a deep, resonant vibration.
+
+Solar Infusion
+
+    Effect: Imbues an ally’s attacks with solar energy, increasing damage output by 25% and providing a 20% chance to either ignite enemies (Burning) or heal the ally for 5% of their max HP on hit.
+    Element: Fire + Spirit
+    Visual/Auditory Cue: The ally’s attacks are imbued with golden energy, with a bright flash and a surge of power.
+
+Ultimate/Power Spells
+Celestial Rebirth
+
+    Effect: Revives all fallen allies, restoring 50% of their max HP and granting them Phoenix’s Grace (+20% damage output and +10% defense for 3 turns). Costs 40% of Thang’s current HP or equivalent mana.
+    Element: Spirit + Fire
+    Visual/Auditory Cue: A radiant, celestial light engulfs the battlefield, with a majestic, otherworldly chant.
+
+Phoenix’s Flames of Judgment
+
+    Effect: Deals massive AoE fire damage (150% of Fire’s base damage) with a 25% chance to stun enemies and leave a Blazing Field (10% DoT to enemies in the area for 2 turns).
+    Element: Fire
+    Visual/Auditory Cue: A dramatic explosion of fire and light, with a deafening roar of solar fury.
+
+Situational Spells
+Solar Eclipse
+
+    Effect: Blinds all enemies for 1 turn (accuracy -25%) and dispels stealth effects. Provides Vision to all allies, revealing hidden enemies for 2 turns.
+    Element: Fire + Moon
+    Visual/Auditory Cue: A sudden, blinding light pierces the darkness, with a sharp, piercing sound.
+
+Earth’s Grasp
+
+    Effect: Immobilizes all enemies in a small radius for 2 turns, preventing movement. Increases the damage of Earth abilities by 15% against immobilized enemies.
+    Element: Earth
+    Visual/Auditory Cue: The ground cracks and grips the enemies, with a low, ominous rumble.
+
+Time’s Cycle
+
+    Effect: Resets all cooldowns for an ally and removes up to 2 debuffs. Grants a Haste buff (+20% movement speed and +10% attack speed for 2 turns).
+    Element: Spirit + Moon
+    Visual/Auditory Cue: A swirling, temporal vortex surrounds the ally, with a rhythmic, cyclical hum.
+
+Additional Mechanics
+
+    Resource System: Thang’s life force serves as a resource, with several abilities costing HP instead of mana.
+    Synergies: Spells like Solar Infusion amplify elemental effects when combined with other fire attacks.
+    Environmental Interactions: Certain spells like Earth’s Shield and Solar Renewal are enhanced by the terrain or sunlight.
+    Narrative Integration: Each spell reflects Thang’s celestial trials and his role as the Phoenix Spectre, tying his abilities to his backstory.

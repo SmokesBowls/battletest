@@ -1,0 +1,629 @@
+{
+ "targets": {
+  "f15": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "fire"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    1.05,
+    0.12
+   ]
+  },
+  "f20": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "fire"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -1.7,
+    2.56
+   ]
+  },
+  "f06": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "fire"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -6.59,
+    -2.49
+   ]
+  },
+  "f23": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "fire"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    7.14,
+    2.36
+   ]
+  },
+  "f03": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "fire"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    0.67,
+    -5.62
+   ]
+  },
+  "f11": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "earth"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    6.75,
+    -2.85
+   ]
+  },
+  "f26": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "earth"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -1.82,
+    5.9
+   ]
+  },
+  "f08": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [
+     "shadow"
+    ],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -1.29,
+    -1.96
+   ]
+  },
+  "f14": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [
+    "clay"
+   ],
+   "pos": [
+    -0.71,
+    -0.56
+   ]
+  },
+  "f10": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [
+    "ash"
+   ],
+   "pos": [
+    3.76,
+    -2.76
+   ]
+  },
+  "f07": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -3.86,
+    -2.14
+   ]
+  },
+  "f19": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -4.17,
+    2.35
+   ]
+  },
+  "f05": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    5.86,
+    -5.38
+   ]
+  },
+  "f25": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -4.53,
+    5.73
+   ]
+  },
+  "f27": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    0.77,
+    5.5
+   ]
+  },
+  "f22": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    3.51,
+    2.12
+   ]
+  },
+  "f16": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    3.32,
+    -0.68
+   ]
+  },
+  "f24": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -7.06,
+    4.94
+   ]
+  },
+  "f28": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    4.45,
+    5.48
+   ]
+  },
+  "f13": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -4.57,
+    0.16
+   ]
+  },
+  "f01": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -3.34,
+    -4.96
+   ]
+  },
+  "f17": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    6.47,
+    -0.21
+   ]
+  },
+  "f12": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -5.87,
+    0.44
+   ]
+  },
+  "f09": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    1.46,
+    -2.54
+   ]
+  },
+  "f02": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -0.88,
+    -4.84
+   ]
+  },
+  "f29": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    5.9,
+    5.5
+   ]
+  },
+  "f18": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -6.07,
+    1.96
+   ]
+  },
+  "f00": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    -6.6,
+    -4.91
+   ]
+  },
+  "f21": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    1.95,
+    2.09
+   ]
+  },
+  "f04": {
+   "hp": 200.0,
+   "chain": {
+    "elements": [],
+    "state": null,
+    "closed": false,
+    "ongoing": 0.0
+   },
+   "conditions": [],
+   "pos": [
+    4.41,
+    -5.37
+   ]
+  }
+ },
+ "walk": [
+  "f07",
+  "f13",
+  "f19",
+  "f18",
+  "f12",
+  "f06",
+  "f00",
+  "f01",
+  "f02",
+  "f03",
+  "f09",
+  "f10",
+  "f16",
+  "f22",
+  "f21",
+  "f15",
+  "f14",
+  "f08"
+ ],
+ "turns": [
+  {
+   "cycle": 1,
+   "actor": "p1",
+   "turn": "bolt",
+   "alerts": [
+    "bolt: becomes Plasma at f06",
+    "bolt: Absorption at f10, bolt stops"
+   ],
+   "hits": [
+    {
+     "target": "f07",
+     "form": "lightning",
+     "primary": true,
+     "damage": 30.0
+    },
+    {
+     "target": "f13",
+     "form": "lightning",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f19",
+     "form": "lightning",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f18",
+     "form": "lightning",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f12",
+     "form": "lightning",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f06",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f00",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f01",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f02",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f03",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f09",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    },
+    {
+     "target": "f10",
+     "form": "plasma",
+     "primary": false,
+     "damage": 30.0
+    }
+   ],
+   "chains": {
+    "f07": {
+     "elements": [
+      "lightning"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f13": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f19": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f18": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f12": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f06": {
+     "elements": [
+      "fire"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f00": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f01": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f02": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f03": {
+     "elements": [
+      "fire"
+     ],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f09": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    },
+    "f10": {
+     "elements": [],
+     "state": null,
+     "closed": false,
+     "ongoing": 0.0
+    }
+   }
+  }
+ ]
+}

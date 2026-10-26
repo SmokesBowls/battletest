@@ -1,0 +1,191 @@
+ells with a focus on fire manipulation. These deal moderate damage, with limited elemental combinations but still powerful enough for early-game enemies.
+
+1. Flame Infusion – Buff (Prime Power Focus)
+
+Effect: Envelops weapons or attacks with fire, adding a fire damage bonus.
+
+Buff Duration: 3 turns.
+
+Damage Bonus: +10% fire damage (scales with level).
+
+
+
+2. Corrosive Flames – Fire & Acid Damage Over Time (Main Ability)
+
+Effect: Deals initial fire damage and corrodes armor over time.
+
+Damage: 250 fire damage + 10% max HP as acid damage over 3 turns.
+
+Debuff: Reduces enemy defenses by 5% per turn.
+
+
+
+3. Cryo Blaze – Fire & Ice Combination
+
+Effect: Flames that freeze on impact, causing burn and freeze effects.
+
+Damage: 200 fire + 100 ice damage over 3 turns.
+
+Effect: 25% chance to freeze enemies for 1 turn.
+
+
+
+4. Blazing Resilience – Buff
+
+Effect: Grants 10% resistance to elemental damage (fire, ice, lightning, etc.).
+
+Duration: 5 turns.
+Tran.
+
+Level 1-10 (Starter Spells)
+
+These are the basic sp
+
+
+
+Level 11-20 (Intermediate Spells)
+
+Tran’s magic becomes more versatile, incorporating multi-elemental damage with higher base damage and the ability to deal with various enemy resistances.
+
+1. Aqua Inferno – Fire & Steam Area Damage
+
+Effect: Scalding steam cloud deals fire and disorients enemies.
+
+Damage: 500 fire damage + 150 scalding steam.
+
+Area of Effect: Small radius, disorient lasts 2 turns.
+
+
+
+2. Inferno Aura – Buff
+
+Effect: Surrounds Tran with a fiery aura, boosting movement speed and regenerating health.
+
+Effect: +20% movement speed, regenerates 50 HP per turn, and deals 100 fire damage to nearby enemies.
+
+Duration: 5 turns.
+
+
+
+3. Stonefire Crush – Fire & Earth Combination
+
+Effect: Launches explosive fireballs, causing area damage and leaving burning stones behind.
+
+Damage: 600 fire damage.
+
+Debuff: Enemies within the area are slowed by 20%.
+
+
+
+4. Phoenix Renewal – Rebirth Buff (Passive)
+
+Effect: If Tran falls in battle, he is reborn with 25% HP, regenerating 150 HP per turn for 3 turns, and his elemental damage is boosted by 15%.
+
+
+
+
+Level 21-30 (Advanced Spells)
+
+Tran’s spells now pack a punch with multi-elemental attacks and game-changing buffs. The focus is on battlefield control and increased damage over time effects.
+
+1. Thunderflare – Fire & Lightning Combo
+
+Effect: Summons fire bolts with electricity, burning and shocking enemies.
+
+Damage: 800 fire + 300 lightning damage.
+
+Effect: 35% chance to stun for 1 turn.
+
+
+
+2. Tempest Flame – Fire & Wind Combo
+
+Effect: Creates a cyclone of fire, launching enemies into the air.
+
+Damage: 750 fire + air damage on impact (300).
+
+Effect: Lifts enemies off the ground, stunning for 1 turn.
+
+
+
+3. Meltdown Surge – Ultimate Fire & Acid AOE
+
+Effect: Massive eruption of acid-infused fire that melts everything.
+
+Damage: 1200 fire + 300 acid damage per turn for 3 turns (area-wide).
+
+Debuff: Enemies lose 10% defense per turn as their armor corrodes.
+
+
+
+4. Overcharge Flame – Spell Amplifier Buff
+
+Effect: Amplifies the next spell cast, increasing damage by 50% and triggering secondary effects (freeze, stun, poison).
+
+Duration: 1 spell.
+
+
+
+
+Level 31-40 (Master Spells)
+
+These are Tran's end-game abilities, focusing on devastating elemental combinations, massive buffs, and the ultimate Acid Fire ability.
+
+1. Acid Fire – Main Ability
+
+Effect: Tran's strongest attack, combining fire and acid in a destructive blaze.
+
+Damage: 2500 fire + 1000 acid damage over time (2 turns).
+
+Debuff: Reduces enemy defense by 15% for 3 turns.
+
+
+
+2. Firestorm Quake – Fire & Earth AOE Attack
+
+Effect: Causes a volcanic-like eruption, shaking the battlefield.
+
+Damage: 1800 fire + 500 earth damage (area-wide).
+
+Debuff: Ground tremors slow enemies by 30%.
+
+
+
+3. Toxic Ember – Poison & Fire Combination
+
+Effect: Poison-filled flames that cling to enemies, burning and poisoning them over time.
+
+Damage: 1500 fire + 500 poison damage over 3 turns.
+
+Debuff: Poisoned enemies deal 10% less damage.
+
+
+
+4. Arcane Ember Shield – Buff
+
+Effect: Summons a magical shield that absorbs magical attacks and converts their energy into buffs.
+
+Buff: Reflects 25% of absorbed magic damage as fire damage, increases elemental resistance by 20% for 5 turns.
+
+
+
+
+End-Game Mastery
+
+
+
+
+---
+
+Game Scaling Mechanics for Damage
+
+For spell damage scaling, we could use Tran’s magic stat or level to determine how his spells scale. For example:
+
+Damage Scaling Formula:
+
+
+\text{Base Damage} + (0.2 \times \text{Magic Stat})
+
+With 9999 HP as the cap, damage will increase proportionally. Boss fights will require using a combination of Tran's buffs and high-damage multi-element spells like Acid Fire or Meltdown Surge, making strategy crucial for surviving late-game battles.
+
+

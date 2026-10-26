@@ -1,0 +1,182 @@
+Here’s the **refined spell set** for future use, polished with the correct **element alignment** and **effect percentages** while preserving the theme of sacrifice, life, and death. These spells will remain versatile for any character, not just tied to Thang:
+
+---
+
+### **Core Spells (3-5)**
+
+#### **Sanguine Bond**  
+- **Effect**: Links the caster’s life force with an ally, healing them for **25% of the caster’s max HP** over 3 turns. The caster loses 15% of their current HP per turn.  
+- **Element**: Spirit  
+- **Visual/Auditory Cue**: A crimson tether connects the caster and ally, pulsing rhythmically with a soft heartbeat sound.  
+
+---
+
+#### **Ashen Revival**  
+- **Effect**: Revives a fallen ally with **50% of their max HP**, but the caster suffers a **10% defense reduction** for 2 turns.  
+- **Element**: Spirit + Fire  
+- **Visual/Auditory Cue**: Grey ashes swirl and form into the ally’s silhouette, reigniting with a burst of flames.  
+
+---
+
+#### **Blood Infusion**  
+- **Effect**: Channels the caster’s blood to empower an ally, granting them **+20% attack power** or **+15% defense** for 3 turns. Costs 10% of the caster’s current HP.  
+- **Element**: Spirit + Earth  
+- **Visual/Auditory Cue**: The ally glows with a red aura, with a faint dripping sound as energy flows into them.  
+
+---
+
+### **Supportive/Utility Spells (2-4)**
+
+#### **Veil of Shadows**  
+- **Effect**: Creates a shadow duplicate of an ally that absorbs **50% of incoming damage** for 1 turn, confusing enemies and redirecting their attacks.  
+- **Element**: Shadow  
+- **Visual/Auditory Cue**: A dark mist envelops the ally, forming a translucent clone with a low, eerie hum.  
+
+---
+
+#### **Blood Shield**  
+- **Effect**: Absorbs **30% of incoming damage** for an ally, with the caster losing HP equal to 15% of the absorbed damage. Lasts 2 turns.  
+- **Element**: Spirit + Shadow  
+- **Visual/Auditory Cue**: A glowing red shield forms around the ally, crackling with energy as it absorbs hits.  
+
+---
+
+### **Ultimate/Power Spells (1-2)**
+
+#### **Fiery Rebirth**  
+- **Effect**: The caster sacrifices themselves to deal **150% AoE Fire damage** to enemies and revive all fallen allies with **25% HP**. Costs 50% of the caster’s max HP or their life.  
+- **Element**: Fire + Spirit  
+- **Visual/Auditory Cue**: Flames consume the caster, erupting into a radiant phoenix-like burst that revives allies.  
+
+---
+
+### **Situational Spells (1-3)**
+
+#### **Bloodfire Barrier**  
+- **Effect**: Summons a barrier that protects allies, reducing incoming damage by **20%**, while dealing **10% Fire DoT** to nearby shadow creatures for 3 turns.  
+- **Element**: Fire + Shadow  
+- **Visual/Auditory Cue**: A fiery, blood-red wall forms around allies, crackling with flames and emitting deep, echoing roars.  
+
+---
+Starter Spells (Level 1-10)
+Flame Infusion
+
+    Effect: Envelops weapons or attacks with fire, granting +10% fire damage for 3 turns. Scales with Tran’s level and magic stat.
+    Element: Fire
+    Visual/Auditory Cue: A fiery glow surrounds weapons, crackling with heat.
+
+Corrosive Flames
+
+    Effect: Deals 250 fire damage and 10% max HP as acid damage over 3 turns. Reduces enemy defense by 5% per turn.
+    Element: Fire + Acid
+    Visual/Auditory Cue: Flames hiss and corrode armor with an acidic, burning sound.
+
+Cryo Blaze
+
+    Effect: Combines fire and ice, dealing 200 fire + 100 ice damage over 3 turns. 25% chance to freeze enemies for 1 turn.
+    Element: Fire + Ice
+    Visual/Auditory Cue: A burst of flames freezes mid-air, crackling and shattering upon impact.
+
+Blazing Resilience
+
+    Effect: Grants 10% resistance to fire, ice, and lightning damage for 5 turns.
+    Element: Fire
+    Visual/Auditory Cue: A shimmering aura of flames protects Tran, resonating with faint, fiery tones.
+
+Intermediate Spells (Level 11-20)
+Aqua Inferno
+
+    Effect: Creates a scalding steam cloud, dealing 500 fire damage + 150 steam damage in a small radius. Disorients enemies (-15% accuracy) for 2 turns.
+    Element: Fire + Water
+    Visual/Auditory Cue: A roaring steam cloud bursts forth, hissing as it burns.
+
+Inferno Aura
+
+    Effect: Tran is surrounded by a fiery aura, granting +20% movement speed, regenerating 50 HP per turn, and dealing 100 fire damage to nearby enemies. Lasts 5 turns.
+    Element: Fire
+    Visual/Auditory Cue: Flames spiral outward, creating a continuous, low rumble.
+
+Stonefire Crush
+
+    Effect: Launches explosive fireballs, dealing 600 fire damage and leaving burning stones that slow enemies by 20%.
+    Element: Fire + Earth
+    Visual/Auditory Cue: A fiery explosion sends stones scattering, with a loud rumble.
+
+Phoenix Renewal (Passive)
+
+    Effect: Upon falling in battle, Tran is reborn with 25% HP, regenerating 150 HP per turn for 3 turns. Grants +15% elemental damage during this time.
+    Element: Fire + Spirit
+    Visual/Auditory Cue: Tran is engulfed in flames and rises anew with a phoenix’s cry.
+
+Advanced Spells (Level 21-30)
+Thunderflare
+
+    Effect: Combines fire and lightning, dealing 800 fire + 300 lightning damage. 35% chance to stun enemies for 1 turn.
+    Element: Fire + Lightning
+    Visual/Auditory Cue: Blazing bolts of fire and lightning strike the battlefield, crackling violently.
+
+Tempest Flame
+
+    Effect: Creates a cyclone of fire, dealing 750 fire damage and 300 air damage on impact. Lifts enemies into the air, stunning them for 1 turn.
+    Element: Fire + Wind
+    Visual/Auditory Cue: A roaring cyclone engulfs enemies, scattering debris.
+
+Meltdown Surge (Ultimate)
+
+    Effect: An acid-infused fire eruption dealing 1200 fire + 300 acid damage per turn for 3 turns in an AoE. Reduces enemy defense by 10% per turn.
+    Element: Fire + Acid
+    Visual/Auditory Cue: A fiery explosion melts the battlefield with corrosive heat.
+
+Overcharge Flame
+
+    Effect: Amplifies Tran’s next spell, increasing its damage by 50% and triggering secondary effects (e.g., freeze, stun, poison).
+    Element: Fire
+    Visual/Auditory Cue: Tran’s flames intensify, glowing with unmatched heat.
+
+Master Spells (Level 31-40)
+Acid Fire
+
+    Effect: Tran’s strongest attack, dealing 2500 fire + 1000 acid damage over 2 turns. Reduces enemy defense by 15% for 3 turns.
+    Element: Fire + Acid
+    Visual/Auditory Cue: A blazing inferno engulfs enemies, burning and corroding simultaneously.
+
+Firestorm Quake
+
+    Effect: Causes a volcanic-like eruption, dealing 1800 fire + 500 earth damage in an AoE. Slows enemies by 30% for 2 turns.
+    Element: Fire + Earth
+    Visual/Auditory Cue: The ground erupts with fire, shaking violently and scattering debris.
+
+Toxic Ember
+
+    Effect: Poison-infused flames deal 1500 fire + 500 poison damage over 3 turns. Poisoned enemies deal 10% less damage.
+    Element: Fire + Poison
+    Visual/Auditory Cue: Smoldering green flames cling to enemies, hissing as they burn.
+
+Arcane Ember Shield
+
+    Effect: Summons a magical shield that absorbs 25% of magic damage and reflects 25% as fire damage. Increases elemental resistance by 20% for 5 turns.
+    Element: Fire + Spirit
+    Visual/Auditory Cue: A radiant shield of embers forms, shimmering with protective energy.
+
+### **Lore and Theme**
+- **Sacrifice**: Every ability revolves around giving a piece of the caster to empower, protect, or heal allies, embodying the essence of sacrifice.  
+- **Life and Death**: Themes of resurrection and temporary empowerment align with the delicate balance between vitality and loss.  
+- **Gothic Feel**: The dark, gothic aesthetic adds depth and ties the spells to a lore-heavy, morally complex background.
+
+---
+
+### **Mechanical Balance**
+1. **High Risk, High Reward**:  
+   - Spells like **Fiery Rebirth** and **Blood Shield** come with significant costs but provide immense strategic value.  
+2. **Cooldowns**:  
+   - Powerful spells like **Ashen Revival** and **Fiery Rebirth** should have long cooldowns or steep costs to balance their potency.  
+
+---
+
+### **Player Choice and Progression**
+- **Morality and Strategy**: Players must make tough decisions about when to sacrifice resources or health for the team.  
+- **Unlockable Potential**: Advanced versions of these spells could include synergy effects, such as **Fiery Rebirth** amplifying the revived allies' abilities temporarily.
+
+---
+
+This spell set is flexible, cohesive, and can fit a character in your second group or be adjusted to complement your narrative. Would you like to tie these to a new character’s profile or store them as part of a **general spell repository** for later use? 😊

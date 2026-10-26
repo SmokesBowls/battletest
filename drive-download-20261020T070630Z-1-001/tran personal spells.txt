@@ -1,0 +1,129 @@
+Core Spells (3-5)
+Crimson Flames
+
+    Effect: A basic fire attack dealing 100% of Fire’s base damage with a 10% Corrosive Burn DoT for 2 turns. Effective against armor.
+    Element: Fire
+    Visual/Auditory Cue: Intense crimson flames erupt, crackling with a sharp hiss.
+
+Blood Infusion
+
+    Effect: Buffs an ally, granting +20% attack or +15% defense for 3 turns. Costs 10% of Trần’s current HP.
+    Element: Spirit + Fire
+    Visual/Auditory Cue: A glowing red aura envelops the ally, pulsing with vitality.
+
+Dragon’s Roar
+
+    Effect: Deals AoE damage (75% of Fire’s base damage) and reduces enemy defense by 15% for 2 turns.
+    Element: Fire
+    Visual/Auditory Cue: A deafening roar shakes the battlefield, accompanied by fiery shockwaves.
+
+Supportive/Utility Spells (2-4)
+Blood Shield
+
+    Effect: Creates a barrier absorbing damage equal to 20% of Trần’s max HP. Reflects 15% of absorbed damage back to melee attackers.
+    Element: Spirit
+    Visual/Auditory Cue: A translucent crimson shield forms, with a faint heartbeat sound.
+
+Elemental Resonance
+
+    Effect: Increases elemental attack effectiveness for the party by 10% for 3 turns. Amplifies effects of elemental combos.
+    Element: Fire + Spirit
+    Visual/Auditory Cue: A radiant glow pulses outward from Trần, amplifying elemental energy.
+
+Dragon’s Insight
+
+    Effect: Reveals hidden enemies for 2 turns and grants allies a 10% evasion boost or temporary invulnerability for 1 turn.
+    Element: Spirit
+    Visual/Auditory Cue: Trần’s eyes glow brightly, with a faint hum of focused energy.
+
+Ultimate/Power Spells (1-2)
+Dragon Ascension
+
+    Effect: Transforms Trần into his dragon form for 3 turns, granting +25% attack, +20% defense, and enhanced abilities.
+    Element: Fire + Spirit
+    Visual/Auditory Cue: Flames and light engulf Trần as his dragon form emerges, accompanied by a resounding roar.
+
+Crimson Cataclysm
+
+    Effect: A massive AoE attack dealing 150% of Fire’s base damage, reducing enemy defense by 20%, and applying Burning (10% DoT for 3 turns).
+    Element: Fire
+    Visual/Auditory Cue: A devastating inferno engulfs the battlefield, with a thunderous explosion.
+
+Situational Spells (1-3)
+Acidic Torrent
+
+    Effect: A focused fire attack dealing 50% Fire + 25% Corrosive DoT for 3 turns. Effective against armored enemies.
+    Element: Fire
+    Visual/Auditory Cue: Streams of molten fire shoot forward, hissing as they corrode targets.
+
+Blood Bond
+
+    Effect: Links Trần’s health with an ally’s, sharing 50% of damage received or healing both for 10% HP over 2 turns.
+    Element: Spirit
+    Visual/Auditory Cue: A glowing tether of blood-red energy connects Trần and his ally.
+
+Dragon’s Tail Sweep
+
+    Effect: A melee AoE attack dealing 75% of Fire’s base damage, knocking back enemies and stunning them for 1 turn.
+    Element: Fire + Physical
+    Visual/Auditory Cue: A fiery tail sweeps across the battlefield, with a loud, explosive crack.
+
+Evolving Dragon Scale Armor Spells
+Stage 1: Chest Plate
+
+Armor of the Crimson Blood
+
+    Effect: Increases defense by 15% for Trần and nearby allies.
+    Visual/Auditory Cue: A glowing crimson chest plate materializes, with the sound of clashing metal.
+
+Stage 2: Adds Fire Attack
+
+Flamestrike
+
+    Effect: A linear fire attack dealing 100% of Fire’s base damage to all targets in its path.
+    Visual/Auditory Cue: A concentrated burst of flames erupts in a straight line.
+
+Stage 3: Full Body Suit with Upgraded Fire Attack
+
+Inferno Barrage
+
+    Effect: A wider and more powerful Flamestrike, dealing 125% Fire damage in an AoE.
+    Visual/Auditory Cue: A fiery onslaught engulfs the area, with crackling and roaring flames.
+
+Stage 4: Grows Wings and Tail
+
+    **Tail Lash:
+        Effect: Melee attack dealing 75% Physical damage with a 25% chance to stun enemies.
+        Visual/Auditory Cue: A fiery tail lashes out, creating a sharp, cracking sound.
+
+    Wing Shield:
+        Effect: Blocks incoming attacks for 2 turns, granting a 20% defense buff to allies behind the wings.
+        Visual/Auditory Cue: Fiery wings spread wide, with the sound of rushing wind.
+
+Stage 5: Fully Evolved with Wings, Tail, and Airborne Capabilities
+
+    Aerial Blaze:
+        Effect: Deals 150% Fire damage in a wide area, raining flames from above.
+        Visual/Auditory Cue: A fiery explosion rains down, with a deafening roar.
+
+    Dragon Soar:
+        Effect: Grants flight, increasing mobility and providing a 15% speed boost for 2 turns.
+        Visual/Auditory Cue: Wings flap powerfully, creating a gust of wind.
+
+Queen’s Guard (if learned)
+Queen’s Protection
+
+    Effect: Activates automatically when the Queen is under threat, blocking 2 attacks and retaliating with a 50% damage strike.
+    Element: Fire + Spirit
+    Visual/Auditory Cue: A glowing aura surrounds the Queen, with a fiery shield that deflects attacks.
+
+
+Father’s Embrace (From Story Progression) – Buff
+
+Effect: Tran gains a protective aura imbued by his father's spirit, increasing fire resistance by 50%, and HP regeneration by 250 HP per turn for 3 turns.
+
+Duration: Passive, triggers upon reaching low health.
+
+Summary
+
+Trần An Tôn Giảng’s spell set balances offense, support, and utility, reflecting his destiny as a prophesied warrior. His Dragon Scale Armor evolves with him, unlocking new abilities and combat options. The Queen’s Guard adds a layer of strategic depth, emphasizing his role as a protector. These abilities are designed to synergize with other party members while showcasing his thematic role as the Crimson Blood Dragon.

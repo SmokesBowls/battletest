@@ -1,0 +1,117 @@
+Kiến Thi Thuý Anh: Dual Path Magic System
+Earth Maiden Path
+Core Spells
+
+    Earth’s Embrace
+        Effect: Restores 15% of max HP to allies in a small radius, scaling with her magic power.
+        Element: Earth
+        Visual/Auditory Cue: A glowing green aura spreads outward, with soft rumbling sounds of shifting soil.
+
+    Stone Wall
+        Effect: Summons a barrier that absorbs damage equal to 25% of her max HP for 2 turns.
+        Element: Earth
+        Visual/Auditory Cue: Large rocks rise from the ground, accompanied by a deep, resonant vibration.
+
+    Root Bind
+        Effect: Immobilizes enemies for 2 turns and reduces their evasion by 10%.
+        Element: Earth
+        Visual/Auditory Cue: Thick roots burst from the ground, entangling enemies with creaking sounds.
+
+Unique Moon Spell Retained
+
+    Moon’s Blessing
+        Effect: Boosts agility and attack speed by 15% for 3 turns.
+        Element: Moon
+        Visual/Auditory Cue: A soft silver glow envelops allies, with a faint celestial chime.
+
+Situational Spell
+
+    Nature’s Wrath
+        Effect: Summons a swarm of insects to deal 10% DoT for 3 turns and distract enemies, reducing their accuracy by 10%.
+        Element: Earth
+        Visual/Auditory Cue: A buzzing cloud of insects engulfs enemies, with chaotic buzzing sounds.
+
+Supportive/Utility Spell
+
+    Fertile Ground
+        Effect: Heals 5% HP per turn for 3 turns for herself and nearby allies.
+        Element: Earth
+        Visual/Auditory Cue: A lush, green aura grows underfoot, with sounds of grass rustling.
+
+Ultimate Spell
+
+    Gaia’s Awakening
+        Effect: Summons a giant earth elemental with 50% of her max HP and 20% of her attack power, lasting 3 turns.
+        Element: Earth
+        Visual/Auditory Cue: A towering elemental rises from the ground, accompanied by a booming roar.
+
+Moon Queen Path
+Core Spells
+
+    Lunar Eclipse
+        Effect: AoE damage scaling with moon phases: New Moon (75%), Half Moon (100%), Full Moon (125%).
+        Element: Moon
+        Visual/Auditory Cue: A dark aura fills the battlefield, with a haunting hum as enemies are engulfed in silver light.
+
+    Tide of Shadows
+        Effect: Debuffs enemies by reducing their attack power and accuracy by 15% for 2 turns.
+        Element: Shadow + Moon
+        Visual/Auditory Cue: Dark waves ripple through the air, with whispers of shadows.
+
+    Celestial Guidance
+        Effect: Enhances allies’ attacks, granting +20% magic power and a 10% chance to blind enemies for 2 turns.
+        Element: Moon
+        Visual/Auditory Cue: A radiant silver light shines from above, illuminating allies.
+
+Unique Earth Spell Retained
+
+    Earth’s Fury
+        Effect: Summons a massive earthquake, dealing 100% Earth damage and stunning enemies for 1 turn.
+        Element: Earth
+        Visual/Auditory Cue: The ground shatters with thunderous cracks, sending tremors through the battlefield.
+
+Situational Spell
+
+    Starfall
+        Effect: Rains meteorites, dealing 75% AoE Moon damage with a 25% chance to burn enemies.
+        Element: Moon + Fire
+        Visual/Auditory Cue: Streaks of silver and fiery meteors crash down, accompanied by loud explosions.
+
+Supportive/Utility Spell
+
+    Lunar Shield
+        Effect: Creates a protective aura reflecting 50% of magic damage back to attackers for 2 turns.
+        Element: Moon
+        Visual/Auditory Cue: A shimmering silver shield surrounds allies, with a gentle hum of celestial energy.
+
+Ultimate Spell
+
+    Cosmic Convergence
+        Effect: Calls down a massive moonbeam, dealing 150% AoE Moon damage and blinding enemies for 1 turn.
+        Element: Moon
+        Visual/Auditory Cue: A bright, blinding light descends, accompanied by an ethereal, resonant chime.
+
+Spiritual Warrior Aspect
+Spiritual Strike
+
+    Effect: A melee attack infused with elemental energy, dealing an additional 25% damage based on her current path’s element (Earth or Moon).
+    Element: Earth (Earth Maiden) or Moon (Moon Queen)
+    Visual/Auditory Cue: A surge of elemental energy trails her weapon, with a sharp crack or shimmer based on the element.
+
+Additional Considerations
+
+    Passive Abilities/Traits:
+        Earth Maiden Path: Increased stamina regeneration in natural environments (+10%).
+        Moon Queen Path: Enhanced critical hit chance when fighting under open skies or moonlight (+5%).
+
+    Scaling and Progression:
+        Spells scale with levels and unlock new abilities based on progression and path choices.
+        Advanced stages of her abilities introduce synergies between Earth and Moon elements.
+
+    Environmental Interactions:
+        Earth Maiden Path: Spells gain a 10% power boost in natural settings like forests or caves.
+        Moon Queen Path: Spells are 15% stronger during nighttime or under an open sky.
+
+Summary
+
+Kiến Thi Thuý Anh’s dual-path system provides dynamic gameplay options, reflecting her dual heritage. Whether players choose the Earth Maiden path for resilience and healing or the Moon Queen path for celestial power and tactical dominance, her abilities offer flexibility, thematic depth, and synergistic potential with other party members.

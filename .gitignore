@@ -1,0 +1,7 @@
+# Archives (originals of the extracted folders)
+*.zip
+*.tar.gz
+# Local tool / generated state
+.claude/
+__pycache__/
+godot_demo/.godot/

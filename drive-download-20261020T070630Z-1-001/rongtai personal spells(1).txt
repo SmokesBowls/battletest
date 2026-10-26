@@ -1,0 +1,75 @@
+Core Spells (3-5)
+Shadow Nova
+
+    Effect: Releases a pulse of shadow energy, dealing 75% of Shadow’s base damage to all nearby enemies and applying Weakened Shadows (-15% attack power) for 2 turns.
+    Element: Shadow
+    Visual/Auditory Cue: A dark wave ripples outward, accompanied by a low, ominous hum.
+
+Ethereal Chains
+
+    Effect: Binds enemies with shadowy tendrils, reducing their movement speed by 30% and dealing 10% DoT for 3 turns.
+    Element: Shadow + Spirit
+    Visual/Auditory Cue: Chains of shadow extend from the ground, accompanied by ghostly whispers.
+
+Umbral Shield
+
+    Effect: Surrounds an ally with a barrier that absorbs damage equal to 20% of Rongtai’s max HP. Has a 25% chance to reflect 50% of absorbed damage back to attackers.
+    Element: Shadow
+    Visual/Auditory Cue: A swirling black barrier envelops the ally, with a faint metallic ringing sound upon activation.
+
+Supportive/Utility Spells (2-4)
+Veil of Shadows
+
+    Effect: Creates a shadowy haze that confuses enemies, giving them a 50% chance to miss their attacks or target their allies for 2 turns.
+    Element: Shadow
+    Visual/Auditory Cue: A dense fog of darkness spreads, muffling sounds and distorting visibility.
+
+Twilight Barrier
+
+    Effect: Summons a shadow wall that blocks projectiles and slows enemies passing through by 20% for 3 turns.
+    Element: Shadow + Earth
+    Visual/Auditory Cue: A dark, translucent wall rises from the ground, crackling with energy.
+
+Ultimate/Power Spells (1-2)
+Shadow Blast (Earned through trials)
+
+    Effect: An explosion of blackness consumes all enemies within range, displacing them into the ethereal realm for 2 turns, removing them from combat temporarily.
+    Element: Shadow + Spirit
+    Visual/Auditory Cue: A massive surge of darkness erupts, accompanied by a deafening, ethereal roar.
+
+Ethereal Resonance (If Shadow Blast is not earned)
+
+    Effect: Amplifies the effects of all her spells, increasing their damage and utility by 25% for 3 turns.
+    Element: Spirit
+    Visual/Auditory Cue: A pulsating aura of shadow surrounds Rongtai, accompanied by a deep, resonant hum.
+
+Situational Spells (1-3)
+Shadow Reap
+
+    Effect: Absorbs the life force of enemies in a small radius, healing allies for 15% of their max HP and reducing enemy attack power by 10% for 2 turns.
+    Element: Shadow
+    Visual/Auditory Cue: A swirling vortex of shadows drains energy from enemies, with a faint, echoing wail.
+
+Phantom Mirror
+
+    Effect: Creates a shadow clone of Rongtai that distracts enemies for 2 turns. The clone has 25% of Rongtai’s max HP and can trigger traps or reflect 50% of spells back to attackers.
+    Element: Shadow
+    Visual/Auditory Cue: A dark silhouette of Rongtai materializes, with a faint shimmer and ghostly echoes.
+
+Dark Veil
+
+    Effect: Grants stealth to herself or an ally for 2 turns, increasing movement speed by 20% and evasion by 15% during this period.
+    Element: Shadow
+    Visual/Auditory Cue: A cascading veil of darkness cloaks the target, accompanied by a soft, ethereal hum.
+
+Resource System
+
+    Shadow Essence: Spells consume shadow essence, a unique resource replenished through basic attacks or absorbing enemy energy via spells like Shadow Reap.
+
+Synergy with Ethereal Mechanics
+
+    Spells like Shadow Blast and Phantom Mirror create unique opportunities to exploit the ethereal realm, providing strategic depth.
+
+Narrative Integration
+
+Rongtai’s abilities are tied to her Asuren heritage, with each spell representing her mastery of survival and her role as a bridge between realms.

@@ -1,0 +1,776 @@
+[
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/Spark_merge.md",
+    "sha256": "2229e78dadab39d79b49b31baed87f3b230d38a0918aa8711a5b5308eeaf8e68",
+    "family": "personal",
+    "subgroup": "rune_granted",
+    "character_id": "geralt",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/Spark_merge.md",
+    "duplicate_of": null,
+    "dependencies": [
+      "Rune of the Crimson Bloom"
+    ],
+    "open_decisions": [
+      "Owner: rune or Geralt?",
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/Untitled Document.txt",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "family": "unclassified",
+    "subgroup": "empty",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/Untitled Document.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "File is a single newline; safe to drop"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/blood_echo.md",
+    "sha256": "fafb83ef2a682df397d7cfa491fbefc40ef1b096094eda188e03d8bb9cfdbdfe",
+    "family": "personal",
+    "subgroup": "rune_granted",
+    "character_id": "geralt",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/blood_echo.md",
+    "duplicate_of": null,
+    "dependencies": [
+      "Rune of the Crimson Bloom"
+    ],
+    "open_decisions": [
+      "Owner: rune or Geralt?",
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/ch_3_magic.md",
+    "sha256": "75ada77410832f91ff5986da4464340281aa10c4146b66e1d5faab81d03c8217",
+    "family": "chapter",
+    "subgroup": "manuscript_extract",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/ch_3_magic.md",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/chapter_2_magic.md",
+    "sha256": "2c4fba51914ec1e1f8b33dd97d545a0ebc3bfc551cc82fa24c0119d94a58aa3f",
+    "family": "chapter",
+    "subgroup": "manuscript_extract",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/chapter_2_magic.md",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/chapter_5_magic.md",
+    "sha256": "6b162706917c930639a55d90165b7506adcb9ebb7873dfe78900d143d9c5f876",
+    "family": "chapter",
+    "subgroup": "manuscript_extract",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/chapter_5_magic.md",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/claude.txt",
+    "sha256": "5ab858704319705ba719426a8727a9bfad0eb1dc95d33147b5a99c37a38f80d9",
+    "family": "unclassified",
+    "subgroup": "chat_transcript",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/claude.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "Chat export about comparing story versions; may not be magic material",
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/earth.txt",
+    "sha256": "a1877c97c111bb00f566c689e207b5b2217318800b5faa3630cb0c7cc4149152",
+    "family": "elemental",
+    "subgroup": "element_chain",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/earth.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/extra spells(1).txt",
+    "sha256": "2088c2542582ee9de7538707324625e7d542c8b20d5e11bdac83bbffcfef24c0",
+    "family": "personal",
+    "subgroup": "unowned_template",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/extra spells(2).txt",
+    "sha256": "2088c2542582ee9de7538707324625e7d542c8b20d5e11bdac83bbffcfef24c0",
+    "family": "personal",
+    "subgroup": "unowned_template",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/extra spells(3).txt",
+    "sha256": "2088c2542582ee9de7538707324625e7d542c8b20d5e11bdac83bbffcfef24c0",
+    "family": "personal",
+    "subgroup": "unowned_template",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "sha256": "2088c2542582ee9de7538707324625e7d542c8b20d5e11bdac83bbffcfef24c0",
+    "family": "personal",
+    "subgroup": "unowned_template",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/extra spells.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "States it is for any character, derived from Thang's theme: needs its own family or an owner",
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/fire.txt",
+    "sha256": "ebd88bb7d26a006970fe7f4291163c25edb807301d5c75dc4c98795c94ba8f38",
+    "family": "elemental",
+    "subgroup": "element_chain",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/fire.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims",
+      "Fire L1 basic attack is 95 damage / 30 MP: is this the 'Fire base damage' personal spells reference?"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/gptelements.txt",
+    "sha256": "fefc4e17db1e06f81cd779b070e24a9129c49eaba96bcbec8eeed19ecd23a2a5",
+    "family": "elemental",
+    "subgroup": "combination_reactions",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/gptelements.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/intro_magic_log.md",
+    "sha256": "6b1902c3b8038c1a9f9c1522283a6a33431e0000b58434b5a6a0b2c038710067",
+    "family": "chapter",
+    "subgroup": "spell_codex_intro_era",
+    "character_id": null,
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/intro_magic_log.md",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "Codex with narrative_debut chapters; chapter vs personal family unclear",
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells (copy).txt",
+    "sha256": "c06e8a7e55aad8757a98057ac534571982ba148d62b1d52961dac96b7c0f147a",
+    "family": "personal",
+    "subgroup": "easter_egg",
+    "character_id": "kien",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells(1).txt",
+    "sha256": "c06e8a7e55aad8757a98057ac534571982ba148d62b1d52961dac96b7c0f147a",
+    "family": "personal",
+    "subgroup": "easter_egg",
+    "character_id": "kien",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells(2).txt",
+    "sha256": "c06e8a7e55aad8757a98057ac534571982ba148d62b1d52961dac96b7c0f147a",
+    "family": "personal",
+    "subgroup": "easter_egg",
+    "character_id": "kien",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells(3).txt",
+    "sha256": "c06e8a7e55aad8757a98057ac534571982ba148d62b1d52961dac96b7c0f147a",
+    "family": "personal",
+    "subgroup": "easter_egg",
+    "character_id": "kien",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells(4).txt",
+    "sha256": "c06e8a7e55aad8757a98057ac534571982ba148d62b1d52961dac96b7c0f147a",
+    "family": "personal",
+    "subgroup": "easter_egg",
+    "character_id": "kien",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "sha256": "c06e8a7e55aad8757a98057ac534571982ba148d62b1d52961dac96b7c0f147a",
+    "family": "personal",
+    "subgroup": "easter_egg",
+    "character_id": "kien",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/keen_easter_egg_spells.txt",
+    "duplicate_of": null,
+    "dependencies": [
+      "path choice: Moon Queen vs Celestial Warrior (Earth Maiden)",
+      "Tran's Queen's Guard"
+    ],
+    "open_decisions": [
+      "Brainstorm transcript with assistant chatter, no numbers",
+      "Earth path called 'Celestial Warrior (Earth Maiden)' here, 'Earth Maiden' in Kien file",
+      "Earthen Bloom Shield: HP pool design, yet 'up to four hits' with Queen's Guard implies hit count",
+      "Earthen Bloom Shield vs Celestial Bloom: same ability or two?",
+      "Meditation/trance state referenced but undefined"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/kien personal spells(1).txt",
+    "sha256": "54c88c2e162613ae0730358c5c5bd1dd7fceb0deee3bc0e24db1db02bd3ddff1",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "kien",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/kien personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/kien personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/kien personal spells(2).txt",
+    "sha256": "54c88c2e162613ae0730358c5c5bd1dd7fceb0deee3bc0e24db1db02bd3ddff1",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "kien",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/kien personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/kien personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/kien personal spells(3).txt",
+    "sha256": "cd67ae72fc37ccb2daeb3f92b37af84ac2d7dbcf25f843f6bc7c7696bf51fde9",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "kien",
+    "version_status": "redundant_variant",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/kien personal spells(3).txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "Contains the canonical Kien text twice plus a trailing dash rule; no unique content. Safe to drop after confirming."
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/kien personal spells.txt",
+    "sha256": "54c88c2e162613ae0730358c5c5bd1dd7fceb0deee3bc0e24db1db02bd3ddff1",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "kien",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/kien personal spells.txt",
+    "duplicate_of": null,
+    "dependencies": [
+      "Earth damage (Earth's Fury 100%)",
+      "Moon damage (Starfall 75%, Cosmic Convergence 150%)",
+      "Burning status (Starfall 25% burn)",
+      "moon-phase world state (Lunar Eclipse)",
+      "time-of-day / open-sky / natural-setting environment flags",
+      "path choice: Earth Maiden vs Moon Queen"
+    ],
+    "open_decisions": [
+      "Probably the same character as 'Keen' (Easter egg file); alias unconfirmed",
+      "No spell lists any cost (mana, HP, cooldown)",
+      "Lunar Eclipse 75/100/125%: percent of what base? Moon has a base-damage value?",
+      "Nature's Wrath 10% DoT and Fertile Ground 5% HP: base undefined",
+      "Environmental bonuses exist only in the footer, not on spells",
+      "Moon Queen crit condition 'open skies or moonlight' vs spell bonus 'nighttime or open sky': differ",
+      "Footer claims Earth+Moon synergy stages; none defined",
+      "Footer says spells unlock with progression; no unlock table"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/last_ember.md",
+    "sha256": "54b747c591b5635f58dc3e6e04cb2e39946550dd6301ea57707e9ff70a03c008",
+    "family": "personal",
+    "subgroup": "rune_granted",
+    "character_id": "geralt",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/last_ember.md",
+    "duplicate_of": null,
+    "dependencies": [
+      "Rune of the Crimson Bloom"
+    ],
+    "open_decisions": [
+      "Owner: rune or Geralt?",
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/lightning.txt",
+    "sha256": "5a91a3ec0763f3196a36106c8d4f4eb60a9c2684e8c50a99cf9eb5bb382fc0ab",
+    "family": "elemental",
+    "subgroup": "element_chain",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/lightning.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/magic_Faelan Thornshade – The Hermit Druid.txt",
+    "sha256": "eaaebdadbfe1d0fde3da745f882ee63dc4fec3ea325bee64ea463d9fc2da1f09",
+    "family": "personal",
+    "subgroup": "npc_lore",
+    "character_id": "faelan_thornshade",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/magic_Faelan Thornshade – The Hermit Druid.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "Lore/role description only; no spells or mechanics"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/magic_Kaela Brightwater – The Oracle of Hidden Waters.txt",
+    "sha256": "f03e714a5d027af580033bffc2654b0a6c1d07acb7892ea339515c149d7152e8",
+    "family": "personal",
+    "subgroup": "npc_lore",
+    "character_id": "kaela_brightwater",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/magic_Kaela Brightwater – The Oracle of Hidden Waters.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "Lore/role description only; no spells or mechanics"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/magic_Seraphine Voss – The Dreamweaver.txt",
+    "sha256": "c0fa858d3779135442c937fd3e19aa7b5f45f8501ed0a9ecf8cc3f1f1fb009cf",
+    "family": "personal",
+    "subgroup": "npc_lore",
+    "character_id": "seraphine_voss",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/magic_Seraphine Voss – The Dreamweaver.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "Lore/role description only; no spells or mechanics"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/magic_Thaddeus Blackwood – The Arcane Alchemist.txt",
+    "sha256": "440b4ad8254499820c9d2e903714c04a722955db3224b96f762ac08a7c53958a",
+    "family": "personal",
+    "subgroup": "npc_lore",
+    "character_id": "thaddeus_blackwood",
+    "version_status": "unknown",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/magic_Thaddeus Blackwood – The Arcane Alchemist.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "Lore/role description only; no spells or mechanics",
+      "Pairing section is a copy of Kaela's Nyssa/Kaela section; Thaddeus's own pairing is missing"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/psionic_fracture.md",
+    "sha256": "e9354ebf0411f26f9223094fb5b84ee9aa4d8b8eec95c1a2993e9fca2eb2697a",
+    "family": "personal",
+    "subgroup": "rune_granted",
+    "character_id": "geralt",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/psionic_fracture.md",
+    "duplicate_of": null,
+    "dependencies": [
+      "scene_triggered:event_whipstop_001"
+    ],
+    "open_decisions": [
+      "Trait, not spell",
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/rongtai personal spells(1).txt",
+    "sha256": "2ee274cc02d6ee2504a1cfb854c26c8f83f91b2cd3fe231099a80affb891258a",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "rongtai",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/rongtai personal spells(2).txt",
+    "sha256": "2ee274cc02d6ee2504a1cfb854c26c8f83f91b2cd3fe231099a80affb891258a",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "rongtai",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/rongtai personal spells(3).txt",
+    "sha256": "2ee274cc02d6ee2504a1cfb854c26c8f83f91b2cd3fe231099a80affb891258a",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "rongtai",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "sha256": "2ee274cc02d6ee2504a1cfb854c26c8f83f91b2cd3fe231099a80affb891258a",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "rongtai",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/rongtai personal spells.txt",
+    "duplicate_of": null,
+    "dependencies": [
+      "Shadow base damage (Shadow Nova 75%)",
+      "Shadow Essence resource (new, character-specific)",
+      "ethereal realm displacement",
+      "story flag: Shadow Blast earned through trials"
+    ],
+    "open_decisions": [
+      "Shadow Essence: declared in footer; no spell lists a cost amount; no cap or regen rate",
+      "Footer says Shadow Reap restores essence; Shadow Reap's text heals allies only",
+      "Shadow Blast removes enemies from combat for 2 turns: not in combat spec",
+      "Ethereal Chains 10% DoT: base undefined",
+      "Section headers carry template counts '(3-5)', '(2-4)'; same template as Tran"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/shadow.txt",
+    "sha256": "0b91bbbc985c86077e0fbaa1bd50d2bf7de2493af0514ffbef0cf96d2a7d97b2",
+    "family": "elemental",
+    "subgroup": "element_chain",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/shadow.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/thang personal spells(1).txt",
+    "sha256": "7f38943be09379307ebcee4a7556876990e0dce264a03010d12c1f85a9086f0c",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "thang",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/thang personal spells(2).txt",
+    "sha256": "7f38943be09379307ebcee4a7556876990e0dce264a03010d12c1f85a9086f0c",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "thang",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/thang personal spells(3).txt",
+    "sha256": "7f38943be09379307ebcee4a7556876990e0dce264a03010d12c1f85a9086f0c",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "thang",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "sha256": "7f38943be09379307ebcee4a7556876990e0dce264a03010d12c1f85a9086f0c",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "thang",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/thang personal spells.txt",
+    "duplicate_of": null,
+    "dependencies": [
+      "Fire base damage (Bronze Flames 75%, Phoenix's Flames of Judgment 150%)",
+      "Burning status",
+      "elements: Fire, Spirit, Earth, Moon"
+    ],
+    "open_decisions": [
+      "Bronze Flames: Burning stack cap undefined; +5%/stack additive to 10% or multiplicative?",
+      "Bronze Flames: does 'stacks with other fire effects' include other characters' Burning (e.g. Tran's Crimson Cataclysm)?",
+      "Phoenix's Embrace: 15% current-HP loss is a break consequence, not a cast cost",
+      "Celestial Rebirth: only explicit HP cost; 'equivalent mana' undefined",
+      "No spell lists mana cost or cooldown, so Time's Cycle cooldown reset has nothing to reset in-kit",
+      "Footer claims Solar Infusion amplifies other fire attacks; spell text does not",
+      "Footer 'several abilities cost HP': only Celestial Rebirth has a cast cost",
+      "Burning base (10% of what?) undefined"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/tran old spells(1).txt",
+    "sha256": "22f5ca018d92db0a440bd3ea8dcb4aae68fae15399bdfc0ba4d89045c4a5b2bf",
+    "family": "personal",
+    "subgroup": "party_historical",
+    "character_id": "tran",
+    "version_status": "old",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/tran old spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/tran old spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/tran old spells(2).txt",
+    "sha256": "22f5ca018d92db0a440bd3ea8dcb4aae68fae15399bdfc0ba4d89045c4a5b2bf",
+    "family": "personal",
+    "subgroup": "party_historical",
+    "character_id": "tran",
+    "version_status": "old",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/tran old spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/tran old spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/tran old spells.txt",
+    "sha256": "22f5ca018d92db0a440bd3ea8dcb4aae68fae15399bdfc0ba4d89045c4a5b2bf",
+    "family": "personal",
+    "subgroup": "party_historical",
+    "character_id": "tran",
+    "version_status": "old",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/tran old spells.txt",
+    "duplicate_of": null,
+    "dependencies": [
+      "flat damage numbers (250-2500)",
+      "level bands 1-40",
+      "9999 HP cap",
+      "scaling formula Base + 0.2 x Magic Stat",
+      "elements absent elsewhere: Ice, Acid, Poison, Wind/Air, Steam"
+    ],
+    "open_decisions": [
+      "Text is scrambled: intro sentence split and out of order; 'End-Game Mastery' heading empty",
+      "Different damage model from current file (flat vs % of base); do not merge",
+      "'Phoenix Renewal' name overlaps Thang's phoenix theme; distinct spell, do not merge"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/tran personal spells(1).txt",
+    "sha256": "337908200bea0ba2d990c4f4d487cc3723a7c1a8e5aede91dbbf81cede095cfe",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "tran",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/tran personal spells(2).txt",
+    "sha256": "337908200bea0ba2d990c4f4d487cc3723a7c1a8e5aede91dbbf81cede095cfe",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "tran",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/tran personal spells(3).txt",
+    "sha256": "337908200bea0ba2d990c4f4d487cc3723a7c1a8e5aede91dbbf81cede095cfe",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "tran",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "duplicate_of": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "dependencies": [],
+    "open_decisions": [],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "sha256": "337908200bea0ba2d990c4f4d487cc3723a7c1a8e5aede91dbbf81cede095cfe",
+    "family": "personal",
+    "subgroup": "party",
+    "character_id": "tran",
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/tran personal spells.txt",
+    "duplicate_of": null,
+    "dependencies": [
+      "Fire base damage (Crimson Flames, Dragon's Roar, Crimson Cataclysm, Dragon's Tail Sweep, Flamestrike)",
+      "Burning status (Crimson Cataclysm)",
+      "Physical damage type (Tail Lash, Dragon's Tail Sweep)",
+      "armor stage progression 1-5",
+      "story flags: Queen's Guard learned, Father's Embrace"
+    ],
+    "open_decisions": [
+      "Not confirmed authoritative; only known to differ from 'tran old spells'",
+      "Blood Infusion: explicit cast cost 10% current HP",
+      "Corrosive Burn / Corrosive DoT: new statuses, relation to Burning undefined",
+      "'125% Fire damage', '150% Fire damage', '50% Fire': same as 'of Fire's base damage'?",
+      "Physical is not a defined element/damage type in the library",
+      "Armor stage spells have no Element field",
+      "Father's Embrace: flat 250 HP/turn in an otherwise %-based kit; 'Passive' vs '3 turns'; low-health threshold undefined",
+      "Dragon's Insight: '10% evasion OR invulnerability'; who chooses?",
+      "Queen's Protection: 'the Queen' presumably Keen/Kien as Moon Queen; behaviour if she chose Earth Maiden?",
+      "Queen's Guard blocks by hit count (2 attacks), not HP"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  },
+  {
+    "source_file": "drive-download-20261020T070630Z-1-001/water.txt",
+    "sha256": "7fa170f0e4dec95f2148ca622574ddbf8e9e38a68a493d2edf58b5c2b1b2aaca",
+    "family": "elemental",
+    "subgroup": "element_chain",
+    "character_id": null,
+    "version_status": "current_candidate",
+    "canonical_copy": "drive-download-20261020T070630Z-1-001/water.txt",
+    "duplicate_of": null,
+    "dependencies": [],
+    "open_decisions": [
+      "not yet audited for dependencies/costs/footer claims"
+    ],
+    "provenance": "Google Drive export drive-download-20261020T070630Z-1-001"
+  }
+]

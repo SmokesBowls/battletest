@@ -1,0 +1,116 @@
+FIRE (Adjusted for higher base damage):
+
+Primary Stats per Level:
+```
+Level 1:
+* Basic Attack: Flame burst (95 damage)
+* AoE: Target pad only
+* MP Cost: 30
+
+Level 2:
+* Enhanced Attack: Flame wave (2x85 damage)
+* AoE: Forward line of pads
+* MP Cost: 50
+
+Level 3:
+* Ultimate: Inferno (300 damage)
+* AoE: Full battlefield
+* MP Cost: 85
+```
+
+Element Interactions (scaling with levels):
+```
+vs Water:
+* Level 1: Cancel + Steam (25 DoT, 3 turns)
+* Level 2: Steam (35 DoT, 3 turns)
+* Level 3: Steam (50 DoT, 4 turns)
+
+vs Lightning:
+* Level 1: Plasma ball (+25% speed, 35 bonus damage)
+* Level 2: Plasma wave (+35% speed, 45 bonus damage)
+* Level 3: Plasma storm (+50% speed, 65 bonus damage)
+
+vs Earth:
+* Level 1: Magma (35 DoT, small terrain change)
+* Level 2: Magma field (45 DoT, medium terrain change)
+* Level 3: Volcanic eruption (65 DoT, large terrain change)
+
+vs Ice:
+* Level 1: Melt (35 damage + remove ice effects)
+* Level 2: Heat wave (45 damage + prevent ice 2 turns)
+* Level 3: Inferno melt (65 damage + prevent ice 4 turns)
+
+vs Shadow:
+* Level 1: Light burst (reveals + 35 damage)
+* Level 2: Bright flame (reveals + 45 damage)
+* Level 3: Solar flare (reveals + 65 damage)
+
+vs Spirit:
+* Level 1: Spirit flame (35 bonus spirit damage)
+* Level 2: Soul fire (45 bonus spirit damage)
+* Level 3: Phoenix flame (65 bonus spirit damage)
+
+vs Moon:
+* Level 1: Solar empowerment (+35% damage)
+* Level 2: Solar wave (+45% damage)
+* Level 3: Solar eclipse (65% damage + status effect)
+```
+
+.........................................................
+
+## FIRE
+Primary Stats per Level:
+
+### Level 1
+* Basic Attack: Single flame burst (100 damage)
+* AoE: Adjacent pads (35 splash damage)
+* MP Cost: 30
+
+### Level 2
+* Enhanced Attack: Dual flame bursts (2x85 damage)
+* Expanded AoE: Two pad radius (45 splash)
+* MP Cost: 50
+
+### Level 3
+* Ultimate: Inferno Wave (300 damage)
+* Full battlefield AoE (85 splash)
+* MP Cost: 80
+
+Element Interactions (scaling with levels):
+
+### vs Water
+* Level 1: Cancel OR Steam (25 DoT, 3 turns)
+* Level 2: Cancel OR Steam (35 DoT, 3 turns)
+* Level 3: Cancel OR Steam (50 DoT, 4 turns)
+
+### vs Lightning
+* Level 1: Plasma burst (125 damage), Speed +10%
+* Level 2: Plasma burst (175 damage), Speed +20%
+* Level 3: Plasma burst (250 damage), Speed +30%
+
+### vs Earth
+* Level 1: Magma formation (50 DoT), Movement block
+* Level 2: Magma pool (75 DoT), Extended block
+* Level 3: Magma field (100 DoT), Full area denial
+
+### vs Ice
+* Level 1: Thermal shock (50 damage), Melt effect
+* Level 2: Thermal burst (75 damage), Area melt
+* Level 3: Thermal explosion (100 damage), Full melt
+
+### vs Shadow
+* Level 1: Shadow burn (75 damage), Reveal
+* Level 2: Shadow combustion (100 damage), Extended reveal
+* Level 3: Shadow inferno (150 damage), Full reveal
+
+### vs Spirit
+* Level 1: Spirit flame (50 damage + 25% Spirit boost)
+* Level 2: Spirit inferno (75 damage + 40% Spirit boost)
+* Level 3: Spirit explosion (100 damage + 60% Spirit boost)
+
+### vs Moon
+* Level 1: Solar flare (75 damage), Minor gravity disrupt
+* Level 2: Solar burst (100 damage), Medium gravity disrupt
+* Level 3: Solar storm (150 damage), Major gravity disrupt
+
+Would you like me to continue with Lightning next?
